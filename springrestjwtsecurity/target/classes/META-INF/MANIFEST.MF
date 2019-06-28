@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springrestjwtsecurity
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nseit_rpillai
+Implementation-Vendor-Id: com.nse
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springrestjwtsecurity
+Created-By: Maven Integration for Eclipse
+
